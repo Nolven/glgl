@@ -5,7 +5,7 @@
 #include "Texture.h"
 
 #include <glm/gtc/matrix_transform.hpp>
-#include <stb_image.h>
+#include <stb_image/stb_image.h>
 
 #include <vector>
 

@@ -2,7 +2,7 @@
 #define UNTITLED_TERRAIN_H
 
 #include "Mesh.h"
-#include "FastNoise.h"
+#include "FastNoise/FastNoise.h"
 
 //Needs only for random color selection
 #include <random>

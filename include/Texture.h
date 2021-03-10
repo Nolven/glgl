@@ -2,7 +2,7 @@
 #define TEXTURE_H
 
 #include <glad/glad.h>
-#include "stb_image.h"
+#include "stb_image/stb_image.h"
 #include <string>
 
 class Texture2D

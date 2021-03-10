@@ -5,7 +5,7 @@
 #include <fstream>
 #include <utility>
 
-#include <stb_image.h>
+#include <stb_image/stb_image.h>
 
 std::map<std::string, Texture2D>    Resources::textures;
 std::map<std::string, Shader>       Resources::shaders;
